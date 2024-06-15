@@ -1,14 +1,10 @@
-# Lucid-Creations [v2.6.7](CHANGELOG.md)
+# Dreambox [v0.0.2](CHANGELOG.md)
 
-Generate images using the Stable Diffusion Generative AI. This Godot Engine program is using the [Godot AI Horde Client Addon](https://github.com/Haidra-Org/AI-Horde-Client-Addon) to take advantage of the [AI Horde](https://aihorde.net/) crowdsourcing.
-
-You can download executables or try a demo version on [itch.io](https://dbzer0.itch.io/lucid-creations)
-
-![Lucid Creations Preview image](screenshot.png "Stable Horde Client Screenshot 1") 
+![Dreambox Preview image](screenshot.png "Stable grid Client Screenshot 1") 
 
 # API Key
 
-While you can use this software anonymously, by using the api_key '0000000000', depending on the load on the horde, this can take a while. If you [generate a unique api_key for yourself](https://aihorde.net/register) you can use it to join the horde with your own PC and receive kudos for generating for others, which will increase your priority on the horde.
+While you can use this software anonymously, by using the api_key '0000000000', depending on the load on the grid, this can take a while. If you [generate a unique api_key for yourself](https://aigrid.net/register) you can use it to join the grid with your own PC and receive kudos for generating for others, which will increase your priority on the grid.
 
 # Generating
 
@@ -18,9 +14,9 @@ Adjust your Generation setting on the controls side to suit your requirements.
 
 # Contributing
 
-This software is based on the crowdsourced processing power. If you feel the generations are taking too long, you can help make them faster by adding your own GPU to to the horde. [This process is more technical](https://github.com/Haidra-Org/AI-Horde-Worker/blob/main/README.md) and involves installing python and more steps, but it's certainly doable without too much hassle. 
+This software is based on the crowdsourced processing power. If you feel the generations are taking too long, you can help make them faster by adding your own GPU to to the grid. [This process is more technical](https://github.com/Haidra-Org/AI-grid-Worker/blob/main/README.md) and involves installing python and more steps, but it's certainly doable without too much hassle. 
 
-Reminder that you will always have priority on your own GPU, and you will also be accumulating Kudos to give you more priority to the rest of the horde.
+Reminder that you will always have priority on your own GPU, and you will also be accumulating Kudos to give you more priority to the rest of the grid.
 
 # Community
 
